@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/qainsights-locust-mcp-server-badge.png)](https://mseep.ai/app/qainsights-locust-mcp-server)
+
 # 🚀 ⚡️ locust-mcp-server
 
 A Model Context Protocol (MCP) server implementation for running Locust load tests. This server enables seamless integration of Locust load testing capabilities with AI-powered development environments.
